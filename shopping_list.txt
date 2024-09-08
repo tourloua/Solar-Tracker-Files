@@ -1,0 +1,17 @@
+MPPT:
+https://www.amazon.ca/Waveshare-Management-Protection-Low-Power-Environmental/dp/B094FWZVFH/ref=sr_1_8?crid=1Y4YQJDPRXRUX&dib=eyJ2IjoiMSJ9.F8N48G6JiIHHkpDyONgWmaqaaJXAPl2YHtByKJrh8E1GEQihMGnPedjioqcDs10vyVU2r-i5-2-WF7Cdnp9KKdK-ugHf2EejzI8g1kURVXyuFHIFbjCFYMcaJjREkY9VoKjmxdGTM1wBBclWf5HOvI0yJJLdT4C2UM5fB3J7rbIaruLxurvq2MemmYUyjg_7EYJ-ToNC-g74GSFptEdEaOyJfJBHIAfgGZvRMToDQNcgQihxNmb9WthwVFwZCEJ7j2z5trw5XPC0lPfFqiOhL9kGgf81MMp2wMGy8ZRTzlo.UhxzY5Hke_1TdnouebHiEWYhO5kc2OQNRhmD8iZcipI&dib_tag=se&keywords=waveshare+MPPT&qid=1724619232&sprefix=waveshare+mpp%2Caps%2C96&sr=8-8
+
+Photoresistors (40 pack):
+https://www.amazon.ca/dp/B013FXH9QQ?ref=nb_sb_ss_w_as-reorder_k1_1_8&amp=&crid=1PWAZI7SWN8ID&amp=&sprefix=photores
+
+2 Watt, 6 V solar panel:
+https://voltaicsystems.com/2-watt-6-volt-solar-panel-etfe/
+
+battery (optional):
+https://www.amazon.ca/2100mAh-103450-rechargeable-replacement-electronic/dp/B091YKTT9S/ref=sr_1_1_sspa?crid=2G42HW4FPFDR4&dib=eyJ2IjoiMSJ9.NZ1_CtbQEuOGwQv2oll7QQVvxdkHZD3FQ6wJXjynRVEdEH2GKhhacDw_L9nyCbqWqdnLcBl8PQ1meLHNzcgzHnhdgwB1MmWUwVRxGdaNOxdvBJCKscNV-fyOK_mWQRohl_kye5fWzCFZtiMgRbMagvI5QYT01l_qTD8mwLoyn1SByCpjutMSMCCE8f4bQ-yBTl6iOfilQY2JE5klgRb26xlVRg8861UHjJ3MY90V_USliqTlfXY6hbnBqk6mSCOYWII4VJgtRaJ2ExHOcGFTC4RXcBRVbFT1oJQBldUTIMM.hQf5g4QC4GdMB8jEGcE4EJWGc4TZqcTQgeZXo4JJNWo&dib_tag=se&keywords=battery+3.7v+2100&qid=1724806476&s=electronics&sprefix=battery+3+7v+2100%2Celectronics%2C104&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+USB power logger:
+https://www.amazon.com/AVHzY-Digital-Multimeter-Detector-26-0000V/dp/B09Y641C3Y?th=1
+
+Stepper Motor YOU WILL NEED 3:
+https://www.utmel.com/components/28byj-48-5v-stepper-motor-28byj-48-datasheet-pinout-wiring?id=1294
